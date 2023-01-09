@@ -39,12 +39,15 @@ Esses são os atributos de qualidade que esperamos que você atenda:
       - Tabela **Operadora**
         - CNPJ
         - Nome
+    - Você pode adicionar outros campos à tabela. Os listados são os campos obrigatórios;
+     <br><br>
     - [ ] Cada cartão somente pode estar vinculado a uma operadora;
     - [ ] Os funcionários podem ter 1 ou mais cartões;
     - [ ] Deve ser criado um formulário para inserir as informações nas tabelas;
     - [ ] Liste todos os itens cadastrados, trazendo os vínculos;
     - [ ] A partir da listagem, efetue a exclusão de um registro;
     - [ ] Crie um formulário de busca, que a partir de um documento ou número de cartão mostre as informações cadastradas;
+    
       <br><br>
 3. Um script que acesse o Google e:
     - [ ] Efetue uma busca (por qualquer termo);
@@ -58,3 +61,10 @@ Esses são os atributos de qualidade que esperamos que você atenda:
       - Título
       - Resumo
       - URL da imagem
+
+### Observações
+- Utilize PHP para a realização do teste;
+- Você pode utilizar ou não framework, fica a seu critério. Vamos avaliar a sua lógica; 
+- Se utilizar framework, pode ser o que você estiver mais acostumado(a);
+- Pode utilizar qualquer banco de dados relacional (MySQL, MariaDB, PostgreSQL, etc...);
+- Qualquer dúvida não deixe de entrar em contato conosco.
